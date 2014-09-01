@@ -1,0 +1,27 @@
+{
+  "name": "google-ui-colors",
+  "version": "1.0.0",
+  "homepage": "http://www.minddust.com/project/google-ui-colors",
+  "description": "",
+  "main": "google-ui-colors.less",
+  "authors": [
+    { "name": "Stephan Groß", "homepage": "http://www.minddust.com" }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/minddust/google-ui-colors.git"
+  },
+  "ignore": [
+    ".editorconfig",
+    ".gitignore"
+  ],
+  "keywords": [
+    "google",
+    "color",
+    "ui",
+    "palette",
+    "less",
+    "scss"
+  ]
+}
